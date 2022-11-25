@@ -1,0 +1,15 @@
+C:\Users\User\Documents\ClassTask11_25\ClassTask11_25\bin\Debug\net6.0\ClassTask11_25.exe
+C:\Users\User\Documents\ClassTask11_25\ClassTask11_25\bin\Debug\net6.0\ClassTask11_25.deps.json
+C:\Users\User\Documents\ClassTask11_25\ClassTask11_25\bin\Debug\net6.0\ClassTask11_25.runtimeconfig.json
+C:\Users\User\Documents\ClassTask11_25\ClassTask11_25\bin\Debug\net6.0\ClassTask11_25.dll
+C:\Users\User\Documents\ClassTask11_25\ClassTask11_25\bin\Debug\net6.0\ClassTask11_25.pdb
+C:\Users\User\Documents\ClassTask11_25\ClassTask11_25\obj\Debug\net6.0\ClassTask11_25.csproj.AssemblyReference.cache
+C:\Users\User\Documents\ClassTask11_25\ClassTask11_25\obj\Debug\net6.0\ClassTask11_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ClassTask11_25\ClassTask11_25\obj\Debug\net6.0\ClassTask11_25.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ClassTask11_25\ClassTask11_25\obj\Debug\net6.0\ClassTask11_25.AssemblyInfo.cs
+C:\Users\User\Documents\ClassTask11_25\ClassTask11_25\obj\Debug\net6.0\ClassTask11_25.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ClassTask11_25\ClassTask11_25\obj\Debug\net6.0\ClassTask11_25.dll
+C:\Users\User\Documents\ClassTask11_25\ClassTask11_25\obj\Debug\net6.0\refint\ClassTask11_25.dll
+C:\Users\User\Documents\ClassTask11_25\ClassTask11_25\obj\Debug\net6.0\ClassTask11_25.pdb
+C:\Users\User\Documents\ClassTask11_25\ClassTask11_25\obj\Debug\net6.0\ClassTask11_25.genruntimeconfig.cache
+C:\Users\User\Documents\ClassTask11_25\ClassTask11_25\obj\Debug\net6.0\ref\ClassTask11_25.dll
